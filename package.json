@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "debug": "^1.0.0",
     "security-vulnerability-test": "^1.0.0"
   }
 }
