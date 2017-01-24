@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "security-vulnerability-test": "^1.0.0"
+    "security-vulnerability-test": "^6.0.0"
   }
 }
